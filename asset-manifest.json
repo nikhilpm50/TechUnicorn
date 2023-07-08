@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TechUnicorn/static/css/main.073c9b0a.css",
+    "main.js": "/TechUnicorn/static/js/main.0d461e01.js",
+    "static/media/coverPhoto.png": "/TechUnicorn/static/media/coverPhoto.c789a2a6779f67b0bb16.png",
+    "static/media/clothSample2.jpg": "/TechUnicorn/static/media/clothSample2.4886a2193089c31124eb.jpg",
+    "static/media/dressSample.jpg": "/TechUnicorn/static/media/dressSample.d6e798843ec715c0f2d3.jpg",
+    "static/media/clothSample.jpg": "/TechUnicorn/static/media/clothSample.12b752e396fa597f0739.jpg",
+    "index.html": "/TechUnicorn/index.html",
+    "main.073c9b0a.css.map": "/TechUnicorn/static/css/main.073c9b0a.css.map",
+    "main.0d461e01.js.map": "/TechUnicorn/static/js/main.0d461e01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0d461e01.js"
+  ]
+}
